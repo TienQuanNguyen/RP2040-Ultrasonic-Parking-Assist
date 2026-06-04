@@ -1,4 +1,4 @@
-# RP2040-Ultrasonic-Parking-Assist
+# RP2040-Based Ultrasonic Distance Measurement System Using US-100 Sensor
 ## 1. Project Overview
 A full-system embedded project designed to measure distance using the US-100 ultrasonic sensor and the RP2040 microcontroller. The system features a custom-designed hardware expansion board, C/C++ bare-metal firmware with digital filtering, and a C# WinForms GUI for real-time visualization and serial communication testing.
 
